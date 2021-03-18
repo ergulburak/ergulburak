@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+Visitor Count:
+
+
+![Visitor Count](https://profile-counter.glitch.me/ergulburak/count.svg)
 <!--
-**ergulburak/ergulburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**msoygen/msoygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
