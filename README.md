@@ -6,13 +6,9 @@ Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/ergulburak/count.svg)
 
 
-![Burak Ergül's GitHub stats](https://github-readme-stats.vercel.app/api?username=ergulburak&show_icons=true&theme=github_dark&hide=contribs,prs)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ergulburak&show_icons=true&theme=github_dark&hide=contribs,prs" alt="ergulburak" width="%50"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak" width="%50"/></p>
 
 
 <!--
