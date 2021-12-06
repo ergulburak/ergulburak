@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Burak!</h1>
+<h3 align="center">A Game Developer from Turkey</h3>
 
-- 🔭 I’m currently working on Unity
-- 🌱 I’m currently learning Unity, C#, Flutter, Dart
+- 🔭 I’m currently working on **Unity**
+- 🌱 I’m currently learning **Unity, C#, Flutter, Dart**
 - :video_game: My itch.io page: https://lugreb.itch.io
 - 💬 My blog: https://ergulburak.github.io
 - 📫 How to reach me: burakcan41@gmail.com
