@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Burak Ergül!</h1>
 
 Visitor Count:
 
@@ -8,7 +8,9 @@ Visitor Count:
 
 ![Burak Ergül's GitHub stats](https://github-readme-stats.vercel.app/api?username=ergulburak&show_icons=true&theme=github_dark)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ergulburak)
 
 <!--
 **msoygen/msoygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
