@@ -12,7 +12,7 @@ Visitor Count:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11164240191&width={width})
 
-<p><img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191&width={300}" alt="ergulburak" width="%50"/></p>
+<p><img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191" alt="ergulburak" width="%50"/></p>
 
 <p>Visitor Count:<img align="center" src="https://profile-counter.glitch.me/ergulburak/count.svg" alt="ergulburak" width="%50"/></p>
 <!--
