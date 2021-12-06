@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ergulburak&show_icons=true&theme=github_dark&hide=prs" alt="ergulburak" width="%50"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ergulburak&show_icons=true&theme=github_dark&hide=prs" alt="ergulburak" width="%50"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak" width="%50"/></p>
 
 <p><img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191&count=1" alt="ergulburak" width="%50"/></p>
