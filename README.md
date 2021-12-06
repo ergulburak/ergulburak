@@ -10,7 +10,7 @@
  <p>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ergulburak&show_icons=true&theme=github_dark&hide=prs" alt="ergulburak" width="50%"/>
     &nbsp; &nbsp; &nbsp; &nbsp;
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak"/>
  </p>
 
 <p>
