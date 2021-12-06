@@ -10,7 +10,8 @@ Visitor Count:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak" width="%50"/></p>
 
 <p><img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191&count=1" alt="ergulburak" width="%50"/></p>
-<p>Visitor Count:<img align="center" src="https://profile-counter.glitch.me/ergulburak/count.svg" alt="ergulburak" width="%50"/></p>
+<p>Visitor Count:
+  <img align="center" src="https://profile-counter.glitch.me/ergulburak/count.svg" alt="ergulburak" width="%50"/></p>
 <!--
 **msoygen/msoygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
