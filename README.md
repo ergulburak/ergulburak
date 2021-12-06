@@ -16,7 +16,9 @@
 <p>
    <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191&count=1" alt="ergulburak" width="%50"/>
 </p>
+
 <p>  
+ &nbsp; &nbsp; &nbsp; &nbsp;
  Visitor Count:<br><br>
  <img align="center" src="https://profile-counter.glitch.me/ergulburak/count.svg" alt="ergulburak" width="%50"/>
 </p>
