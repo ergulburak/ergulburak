@@ -12,10 +12,11 @@
     &nbsp; &nbsp; &nbsp; &nbsp;
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergulburak&layout=compact&theme=github_dark" alt="ergulburak"/>
  </p>
-<br>
- <p>
-   <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191&count=1" alt="ergulburak" width="%50"/>
-   Visitor Count:<br><br>
-   <img align="center" src="https://profile-counter.glitch.me/ergulburak/count.svg" alt="ergulburak" width="%50"/>
- </p>
 
+<p>
+   <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=11164240191&count=1" alt="ergulburak" width="%50"/>
+</p>
+<p>  
+ Visitor Count:<br><br>
+ <img align="center" src="https://profile-counter.glitch.me/ergulburak/count.svg" alt="ergulburak" width="%50"/>
+</p>
